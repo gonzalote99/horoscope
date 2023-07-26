@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+  overflow: hidden;
+  height: 100vh;
+}
+
+.github {
+  color: black;
+}
+
+.span {
+  color: #ffdeda;
+  text-decoration: none;
+}
+
+.button-49,
+.button-49:after {
+width: 80px;
+height: 36px;
+font-size: 15px;
+font-family: 'Bebas Neue', sans-serif;
+background: linear-gradient(45deg, transparent 5%, #FF013C 5%);
+border: 0;
+color: #fff;
+letter-spacing: px;
+box-shadow: 6px 0px 0px #00E6F6;
+outline: transparent;
+position: relative;
+user-select: none;
+touch-action: manipulation;
+}
